@@ -7,4 +7,4 @@ hypersec👁️
 
  
 🔗 https://hypersec.org/
-📟 twitter:  @hypersecOSINT (https://twitter.com/hypersecOSINT)
+📟 https://twitter.com/hypersecOSINT
